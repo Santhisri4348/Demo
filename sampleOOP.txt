@@ -1,0 +1,10 @@
+*Introductoin of Object-oritented programing:
+	(1)Objected-oritented programing is based on the concept of objects.
+	(2)In OOP Objects may communicate  with each other through function.
+	(3)OOP mainly based on the real world.
+	(4)In the OOP objects are having unique identity,state and behaviour.
+
+*We will take a example:Student-details
+	[Name,age,registration no,Department etc...]-Proterties
+
+	[Slepping,eating,reading,listening music etc...]-behaviour
